@@ -33,6 +33,13 @@ TypeGenius is an intelligent typing assistance tool that enhances the typing exp
 - **Textdistance**: For measuring the similarity between words, aiding in spell-checking and suggestions.
 - **Natural Language Processing (NLP)**: Utilized for understanding and generating text.
 
+
+## Author
+
+- [@sandipanrakshit34](https://github.com/sandipanrakshit34)
+
+##
+
 ## Requirements
 
 To run TypeGenius, you will need the following Python libraries:
